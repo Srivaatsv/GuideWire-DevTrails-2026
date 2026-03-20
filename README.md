@@ -227,7 +227,7 @@ GigShield ML → Guidewire REST API → PolicyCenter (Premium) + ClaimCenter (Cl
 
 ## 🎥 Links
 
-- **📹 Strategy Video (2min):** [Link](#)
+- **📹 Strategy Video (2min):** [[Link](https://youtube.com/shorts/gb3jbJhsvIs?si=jETczw87-_qyuvx6)](#)
 - **📂 GitHub Repo:** [Link](#)
 - **🖥️ Live Demo:** [Link](#) *(Phase 3)*
 - **📊 Pitch Deck:** [Link](#) *(Phase 3)*
